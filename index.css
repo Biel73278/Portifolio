@@ -1,5 +1,11 @@
-
-style
-h1{
-    color: rgba(0, 0, 255, 0.703);
-}
+.minha-foto{
+           background-position: center;
+        width: 180px;
+    display: block;
+    margin: 0;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    .h1{
+        font-family: fantasy;
+    }
